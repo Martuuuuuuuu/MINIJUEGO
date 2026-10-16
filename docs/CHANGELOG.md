@@ -11,3 +11,10 @@
 - Se agregó el archivo `CHANGELOG.md` dentro de la carpeta `docs/`.
 - Se agregaron archivos `.gitkeep` para conservar las carpetas vacías en Git.
 - Se estableció la versión `v1.0.0` como versión base (baseline) del proyecto.
+
+## [1.1.0] - 2026-10-16
+
+### Archivos básicos de GitHub
+- Se agregó dentro del archivo `.gitattributes` contenido referenciado para normalizar los finales de línea de los archivos de texto a LF, segun el SO.
+- Se agregó dentro del archivo `.gitignore` el parámetro `*.exe` para que Git ignore todos los archivos de lote ejecutable con esa terminación.
+- Se agregó dentro de `LICENSE` la licensia MIT correspondiente a la tarea, con su descripción detallada.

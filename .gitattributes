@@ -1,0 +1,10 @@
+# Normalizar todos los archivos de texto a LF en el repositorio
+* text=auto
+
+# Forzar finales de línea LF en archivos de código y texto
+*.cpp text eol=lf
+*.h   text eol=lf
+*.md  text eol=lf
+*.txt text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf

@@ -57,3 +57,13 @@
 - Se eliminó el archivo de Git `.gitkeep` dentro de la carpeta `manuales/`.
 - Se reemplazó el archivo eliminado `.gitkeep` por los documentos pdf `manual_programador_v1.0.0.pdf` y `manual_usuario_v1.0.0.pdf`.
 - Se agregó también una breve redacción de los manuales, llamados `manual_programador_v1.0.0.md` y `manual_usuario_v1.0.0.md`.
+
+## [1.5.0] - 2026-10-16
+
+### Informe
+- Se agregó el documento pdf `InformeEEST1_LPR2026_ACT07_G03_Informe_v1.0.0.pdf` provisoriamente (no oficial).
+
+## [1.5.1] - 2026-10-16
+
+## Informe
+- Se eliminó el informe anterior y fue reemplazado por el oficial con su mismo nombre.

@@ -1,10 +1,10 @@
 /* 
-   ====================================================================
-   Materia: Laboratorio de Programación (LPR) — 5° Año
-   Institución: E.E.S.T. N° 100 "Toy Story" — Vicente López
-   Archivo: src/main.cpp
-   Actividad 7: Mini Juego Piedra, Papel o Tijera + Persistencia en Disco
-   ====================================================================
+    ====================================================================
+    Materia: Laboratorio de Programación (LPR) — 5° Año
+    Institución: E.E.S.T. N° 1 "Escuela de Educación Secundaria Técnica N° 1" — Vicente López
+    Archivo: src/main.cpp
+    Actividad 7: Mini Juego Piedra, Papel o Tijera + Persistencia en Disco
+    ====================================================================
 */
 
 #include <iostream>
@@ -38,7 +38,7 @@ int main() {
 
     cout << "=====================================================" << endl;
     cout << "  LPR 2026 - ACTIVIDAD 7: PIEDRA, PAPEL O TIJERA      " << endl;
-    cout << "  Estudiante / Grupo: [Su Nombre y Apellido]         " << endl;
+    cout << "  Estudiante / Grupo: [Martina Araujo]         " << endl;
     cout << "=====================================================" << endl;
 
     do {

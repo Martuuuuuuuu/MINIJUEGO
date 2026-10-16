@@ -25,3 +25,11 @@
 - Se eliminó el archivo `.gitkeep` de la carpeta `src/`.
 - Se agregó el archivo `main.cpp` dentro de `src/` como reemplazo oficial.
 - Se agregó el código fuente dentro de `main.cpp`.
+
+## [1.2.1] - 2026-10-16
+
+### Corrección del código fuente
+- Se agregó un espacio [enter] en el encabezado por el interlineado en rojo.
+- Se eliminaron los datos falsos de la institución `Institución: E.E.S.T. N° 100 "Toy Story" - Vicente López`.
+- Se reemplazaron los datos falsos de la institución por los reales `Institución: E.E.S.T. N° 1 "Escuela de Educación Secundaria Técnica N° 1" - Vicente López`.
+- Se rellenó el espacio `[Tu Nombre y Apellido]` con mi identitad real `[Martina Araujo]`.

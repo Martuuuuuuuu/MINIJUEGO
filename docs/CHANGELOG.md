@@ -67,3 +67,9 @@
 
 ## Informe
 - Se eliminó el informe anterior y fue reemplazado por el oficial con su mismo nombre.
+
+## [3.0.0] - 2026-10-16
+
+### Cierre y GitLab
+- Se hizo la conexión exitosa del repositorio de GitHub `MINIJUEGO` con BackUp en GitLab.
+- Se modificó el Informe para agregar la evidencia de la terminal a la conexión.

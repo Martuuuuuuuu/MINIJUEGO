@@ -45,3 +45,8 @@
 - Se eliminó el archivo `.gitkeep` de la carpeta `capturas`.
 - Se reemplazó el archivo eliminado `.gitkeep` por la evidencia de la correcta compilación del programa `jugada_consola.png`.
 - Se reemplazó el archivo eliminado `.gitkeep` también por la evidencia de que cada partida se guarda en el `archivo_disco`.
+
+## [1.1.2] - 2026-10-16
+
+### Completo el README
+- Se agregó contenido explicativo y definición de la Actividad dentro del archivo `README.md` que antes estaba vacío.

@@ -38,3 +38,10 @@
 
 ### Agrego un parámetro faltante
 - Se agregó el parámetro `*.txt` dentro de `.gitignore` para que Git ignore todos los archivos con esa terminación, porque compile el código fuente.
+
+## [1.3.0] - 2026-10-16
+
+### Capturas y pruebas
+- Se eliminó el archivo `.gitkeep` de la carpeta `capturas`.
+- Se reemplazó el archivo eliminado `.gitkeep` por la evidencia de la correcta compilación del programa `jugada_consola.png`.
+- Se reemplazó el archivo eliminado `.gitkeep` también por la evidencia de que cada partida se guarda en el `archivo_disco`.

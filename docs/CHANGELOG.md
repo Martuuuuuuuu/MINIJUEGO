@@ -50,3 +50,10 @@
 
 ### Completo el README
 - Se agregó contenido explicativo y definición de la Actividad dentro del archivo `README.md` que antes estaba vacío.
+
+## [1.4.0] - 2026-10-16
+
+### Manuales
+- Se eliminó el archivo de Git `.gitkeep` dentro de la carpeta `manuales/`.
+- Se reemplazó el archivo eliminado `.gitkeep` por los documentos pdf `manual_programador_v1.0.0.pdf` y `manual_usuario_v1.0.0.pdf`.
+- Se agregó también una breve redacción de los manuales, llamados `manual_programador_v1.0.0.md` y `manual_usuario_v1.0.0.md`.

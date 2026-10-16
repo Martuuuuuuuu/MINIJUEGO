@@ -33,3 +33,8 @@
 - Se eliminaron los datos falsos de la institución `Institución: E.E.S.T. N° 100 "Toy Story" - Vicente López`.
 - Se reemplazaron los datos falsos de la institución por los reales `Institución: E.E.S.T. N° 1 "Escuela de Educación Secundaria Técnica N° 1" - Vicente López`.
 - Se rellenó el espacio `[Tu Nombre y Apellido]` con mi identitad real `[Martina Araujo]`.
+
+## [1.1.1] - 2026-10-16
+
+### Agrego un parámetro faltante
+- Se agregó el parámetro `*.txt` dentro de `.gitignore` para que Git ignore todos los archivos con esa terminación, porque compile el código fuente.
